@@ -60,7 +60,7 @@ Beatriz Plata Barril	<platabarril@gmail.com>
 
 =head1 COPYRIGHT AND DISCLAIMER
 
-This program is Copyright 2017 by Beatriz Plata Barril.
+This program is Copyright 2018 by Beatriz Plata Barril.
 This program is free software; you can redistribute it and/or
 modify it under the terms of the Perl Artistic License or the
 GNU General Public License as published by the Free Software

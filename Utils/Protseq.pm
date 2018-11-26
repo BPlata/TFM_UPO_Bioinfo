@@ -61,7 +61,7 @@ The Utils::Protseq module reads fasta protein sequence files and returns each fi
 
 =item B<-ParseProtseq>
 
-	This function reads an interpro2go file and returns each field as a hash key and its contents as a value.
+	This function reads an FASTA file and returns each field as a hash key and its contents as a value.
 
 =back
 
@@ -71,7 +71,7 @@ Beatriz Plata Barril	<platabarril@gmail.com>
 
 =head1 COPYRIGHT AND DISCLAIMER
 
-This program is Copyright 2017 by Beatriz Plata Barril.
+This program is Copyright 2018 by Beatriz Plata Barril.
 This program is free software; you can redistribute it and/or
 modify it under the terms of the Perl Artistic License or the
 GNU General Public License as published by the Free Software
